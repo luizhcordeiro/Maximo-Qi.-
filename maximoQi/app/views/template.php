@@ -119,7 +119,7 @@
 				</div>
             </section>
             <section id="inferior">
-            	Copyright 2015. Todos os direitos reservados à Máximo QI | Desenvolvido por <a>LIVESTREET</a></section>
+            	Copyright 2015. Todos os direitos reservados à Máximo QI | Desenvolvido por <a>LUIZ H.CORDEIRO</a></section>
             </section>
         </footer>
     </div>
