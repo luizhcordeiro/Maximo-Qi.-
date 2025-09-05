@@ -1,4 +1,6 @@
 <?php
+
+// cometário 4 - 5 de setembro - manhã
 	
 	$get = (string) trim(addslashes(strip_tags(filter_input(INPUT_GET,"param", FILTER_SANITIZE_STRING))));
 	
@@ -21,4 +23,5 @@
 	}	
 	
 	require_once BASE_PATH . DS . "app" . DS . "views" . DS . "template.php"; 
+
 ?>
