@@ -1,4 +1,6 @@
 <?php
+
+// comentário 6 - 6 de setembro sábado
 	require_once BASE_PATH . DS . "app" . DS . "services" . DS . "database". DS . "conexao.php";
 		
 		$nome = isset($_POST['nome']) ? $_POST['nome'] : null;
@@ -15,4 +17,5 @@ $stmt->bindParam(':senha', $senha);
  
 $stmt->execute();
 		
+
 ?>
